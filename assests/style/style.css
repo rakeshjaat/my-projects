@@ -124,7 +124,7 @@ img {
 
 .earth {
     background-color: #F0FFE6;
-    min-height: 65vh;
+    min-height: 77vh;
     display: flex;
     align-items: center;
 }
@@ -564,7 +564,7 @@ div::-webkit-scrollbar {
     .circle-btn-div-6,
     .circle-btn-div-7,
     .circle-btn-div-8 {
-        top: 10px;
+        top: 20px !important;
     }
 
     .eight-number {
@@ -579,12 +579,9 @@ div::-webkit-scrollbar {
     .counting-eight,
     .nine-number,
     .counting-tenth,
-    .counting-elevnth {
+    .counting-elevnth,
+    .counting-12 {
         display: none;
-    }
-
-    .earth {
-        min-height: 60vh;
     }
 
     .eight-number h2 {
@@ -640,7 +637,7 @@ div::-webkit-scrollbar {
     .circle-btn-div-6,
     .circle-btn-div-7,
     .circle-btn-div-8 {
-        top: 13%;
+        top: 1% !important;
     }
 
     .timeline-2nd h2 {
